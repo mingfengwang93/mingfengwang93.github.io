@@ -1,7 +1,8 @@
 # Site settings
 title: MF Blog
 SEOTitle: Blog of MF
-header-img: img/post-bg-desk.jpg
+#header-img: img/post-bg-desk.jpg
+header-img: img/nbce.jpg
 email: mingfengwong@gmail.com
 description: "Every failure is leading towards success."
 #keyword: "MF, MF Blog, 柏荧的博客, wangmingfeng, 邱柏荧, iOS, Apple, iPhone"

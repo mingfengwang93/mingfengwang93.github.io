@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Escape Plan
+title:      EscapePlan
 subtitle:   xxx
 date:       2018-12-16
 author:     mf

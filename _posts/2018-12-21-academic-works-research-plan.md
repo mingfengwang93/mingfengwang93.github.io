@@ -58,3 +58,18 @@ The angular coordinate θ of the polar coordinate system is used to determinate 
 ![cv](https://mingfengwang93.github.io/assets/l8.bmp)
 
 
+
+
+### Enhanced correlation between MPF and albedo of Arctic sea ice under the background of multi-year ice decline
+
+The correlation between MPF and sea ice albedo gradually increase with the development of melt pond, reaching a multi-year average value above 0.6 in June, at this point, melt pond is the main affecting factor of sea ice albedo. The correlation begins to decrease in July, by this time more leads emerged and begin to influence the albedo.
+
+![cv](https://mingfengwang93.github.io/assets/mpf-seasonal.bmp)
+
+Under the background of multi-year ice decline, the correlation between MPF and albedo of the Arctic sea ice is increasing, at least in July and August. Because more regions will be dominated by homogeneous Seasonal sea ice , and seasonal ice is more conducive to melt pond developing.
+
+![cv](https://mingfengwang93.github.io/assets/interannual-albedo.bmp)
+
+![cv](https://mingfengwang93.github.io/assets/multi-year-ice.bmp)
+
+

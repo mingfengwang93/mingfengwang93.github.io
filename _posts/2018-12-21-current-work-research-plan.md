@@ -19,9 +19,7 @@ tags:
 Melt pond occupies a large fraction on the Arctic sea ice surface during spring and summer. The fraction and distribution of melt pond make a vital impact on the climate and ecosystem by changing the sea ice mass and energy balance, oceanic mixing layer depth, salt balance, and ocean productivity. The climate influences of melt pond reveal the urgency of obtaining a longtime series MPF (melt pond fraction) data. 
 MPF data acquisition mainly based on optical remote sensing. In-situ observation indicates that the spectral properties of melt ponds are widely varied even at a local scale. 
 In the previous MPF algorithm, melt ponds are treated as only one kind of surface features, and the reflectivity of melt ponds is assumed to be constants. In this paper, we perform these previous algorithms using Sentinel-2 and Landsat8 data, the determination results indicate that the assumption of fixed melt pond reflectivity leads to a severe underestimate of MPF. 
-
-FIG.1 TRANING AREA
-
+![cv](https://mingfengwang93.github.io/assets/traning-area.bmp)
 To correct this problem, we treat melt pond as a reflectivity variable feature by dividing them into bright blue melt ponds and dark blue melt ponds, then proposed a new algorithm based on LinearPolar transformation.
 
 FIG.2 2D HISTOGRAM

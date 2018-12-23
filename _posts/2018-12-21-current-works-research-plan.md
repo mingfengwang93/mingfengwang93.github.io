@@ -14,6 +14,27 @@ tags:
 
 ## Academic works
 
+
+### Determination of Arctic melt pond fraction and sea ice roughness from Unmanned Aerial Vehicle (UAV) imagery 
+
+During the 7th Chinese National Arctic Research Expedition, **aerial photographs were taken from an Unmanned Aerial Vehicle** over an ice floe in the Canada Basin. Using threshold discrimination and three-dimensional modeling, we estimated a melt pond fraction of 1.63% and a regionally averaged surface roughness of 0.12 for the study area.
+
+![cv](https://mingfengwang93.github.io/assets/position.bmp)
+
+In view of the particularly foggy environment of the Arctic, **aerial images were defogged** using an improved dark channel prior based image defog algorithm, specially adapted for the special conditions of sea ice images.
+
+![cv](https://mingfengwang93.github.io/assets/defog.bmp)
+
+An aerial photo mosaic was generated, **melt ponds were identified** from the mosaic image and melt pond fractions were calculated. **Three-dimensional modeling techniques were used to generate a digital elevation model allowing relative elevation and roughness of the sea ice surface to be estimated**. 
+
+![cv](https://mingfengwang93.github.io/assets/dem.bmp)
+
+Analysis of the relationship between the distributions of melt ponds and sea ice surface roughness indicates that melt ponds are smaller on sea ice with higher surface roughness, while broader or deeper melt ponds usually occur in areas where sea ice surface roughness is lower.
+
+![cv](https://mingfengwang93.github.io/assets/scatter.bmp)
+
+
+
 ### A new algorithm for melt pond fraction estimation using high resolution optical sensor
 
 Melt pond occupies a large fraction on the Arctic sea ice surface during spring and summer. The fraction and distribution of melt pond make a vital impact on the climate and ecosystem by changing the sea ice mass and energy balance, oceanic mixing layer depth, salt balance, and ocean productivity. The climate influences of melt pond reveal the urgency of obtaining a longtime series MPF (melt pond fraction) data. 
@@ -37,21 +58,3 @@ The angular coordinate θ of the polar coordinate system is used to determinate 
 ![cv](https://mingfengwang93.github.io/assets/l8.bmp)
 
 
-
-### Determination of Arctic melt pond fraction and sea ice roughness from Unmanned Aerial Vehicle (UAV) imagery 
-
-During the 7th Chinese National Arctic Research Expedition, **aerial photographs were taken from an Unmanned Aerial Vehicle** over an ice floe in the Canada Basin. Using threshold discrimination and three-dimensional modeling, we estimated a melt pond fraction of 1.63% and a regionally averaged surface roughness of 0.12 for the study area.
-
-![cv](https://mingfengwang93.github.io/assets/position.bmp)
-
-In view of the particularly foggy environment of the Arctic, **aerial images were defogged** using an improved dark channel prior based image defog algorithm, specially adapted for the special conditions of sea ice images.
-
-![cv](https://mingfengwang93.github.io/assets/defog.bmp)
-
-An aerial photo mosaic was generated, **melt ponds were identified** from the mosaic image and melt pond fractions were calculated. **Three-dimensional modeling techniques were used to generate a digital elevation model allowing relative elevation and roughness of the sea ice surface to be estimated**. 
-
-![cv](https://mingfengwang93.github.io/assets/dem.bmp)
-
-Analysis of the relationship between the distributions of melt ponds and sea ice surface roughness indicates that melt ponds are smaller on sea ice with higher surface roughness, while broader or deeper melt ponds usually occur in areas where sea ice surface roughness is lower.
-
-![cv](https://mingfengwang93.github.io/assets/scatter.bmp)

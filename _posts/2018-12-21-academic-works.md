@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Academic works and Research Plan
+title:      Academic works
 subtitle:   
 date:       2018-12-16
 author:     mf

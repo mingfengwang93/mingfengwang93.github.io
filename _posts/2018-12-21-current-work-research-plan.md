@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      current work and research plan
+title:      Research Interest and Research Plan
 subtitle:   
 date:       2018-12-16
 author:     mf

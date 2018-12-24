@@ -51,8 +51,6 @@ To correct this problem, we treat melt pond as a reflectivity variable feature b
 
 The angular coordinate θ of the polar coordinate system is used to determinate MPF, as θ is only associate with MPF and do not relate to the reflectivity of different melt ponds. The MPF determination results of **LinearPolar algorithm** is compared with that of previous algorithms and exhibited to be more reasonable. 
 
-![cv](https://mingfengwang93.github.io/assets/position.bmp)
-
 ![cv](https://mingfengwang93.github.io/assets/s2.bmp)
 
 ![cv](https://mingfengwang93.github.io/assets/l8.bmp)

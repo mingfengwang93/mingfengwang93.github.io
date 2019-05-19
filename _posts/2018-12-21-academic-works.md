@@ -18,7 +18,7 @@ tags:
 ### A new algorithm for melt pond fraction estimation using high resolution optical sensor
 
 Melt pond occupies a large fraction on the Arctic sea ice surface during spring and summer. The fraction and distribution of melt pond make a vital impact on the climate and ecosystem by changing the sea ice mass and energy balance, oceanic mixing layer depth, salt balance, and ocean productivity. The climate influences of melt pond reveal the urgency of obtaining a longtime series MPF (melt pond fraction) data. 
-![cv](https://mingfengwang93.github.io/assets/icebridgeflight3.png)
+![cv](https://mingfengwang93.github.io/assets/icebridge.png)
                    Fig.1. Overview of the study area with the locations of the selected Sentinel-2 
                    scenes (red frames). The 40 selected samples within the scenes 1-5, Scene 5 is 
                    used for validation with IceBrige aerial image.  The acquired times of Scene 1-5 
@@ -29,7 +29,7 @@ MPF information has generally been acquired from optical imagery. Conventional M
                    Fig.2. Transformed new coordinate system with axes θ and r. The scatter distributions
                    of selected areas are illustrated with different marks.
 Here we use Sentinel-2 imagery to demonstrate that **previous algorithms assuming fixed melt pond-reflectance largely underestimate MPF**. To address this problem, we propose a new algorithm based on the polar coordinate transformation that treats melt ponds as variable-reflectance features and calculates MPF across the vector bisecting melt pond and bare ice axes. The angular coordinate θ of the polar coordinate system, which is only associated with pond fraction rather than reflectance, is used to determinate MPF.
-![cv](https://mingfengwang93.github.io/assets/compare.bmp)
+![cv](https://mingfengwang93.github.io/assets/compare.png)
                   Fig.3. Melt pond fraction determined by the three algorithms 
                   along the IceBridge aerial observation flight track (Red, Blue 
                   and Green line). Melt pond fraction discrimination result of the 

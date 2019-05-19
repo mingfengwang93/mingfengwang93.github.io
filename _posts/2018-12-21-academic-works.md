@@ -15,6 +15,32 @@ tags:
 ## Academic works
 
 
+### A new algorithm for melt pond fraction estimation using high resolution optical sensor
+
+Melt pond occupies a large fraction on the Arctic sea ice surface during spring and summer. The fraction and distribution of melt pond make a vital impact on the climate and ecosystem by changing the sea ice mass and energy balance, oceanic mixing layer depth, salt balance, and ocean productivity. The climate influences of melt pond reveal the urgency of obtaining a longtime series MPF (melt pond fraction) data. 
+![cv](https://mingfengwang93.github.io/assets/traning-area.bmp)
+MPF information has generally been acquired from optical imagery. Conventional MPF algorithms based on high-resolution optical sensors have treated melt ponds as a feature with constant reflectance. However, **the spectral reflectance of ponds can vary by up to 70% in the visible range, even at a local scale**.
+![cv](https://mingfengwang93.github.io/assets/two-d-histogram.bmp)
+Here we use Sentinel-2 imagery to demonstrate that **previous algorithms assuming fixed melt pond-reflectance largely underestimate MPF**. To address this problem, we propose a new algorithm based on the polar coordinate transformation that treats melt ponds as variable-reflectance features and calculates MPF across the vector bisecting melt pond and bare ice axes. The angular coordinate θ of the polar coordinate system, which is only associated with pond fraction rather than reflectance, is used to determinate MPF.
+![cv](https://mingfengwang93.github.io/assets/s2.bmp)
+By comparing the new algorithm and previous methods with Operation IceBridge (OIB) aerial observation data, across a variety of Sentinel-2 images with melt ponds at various stages of development, we show that **the accuracy of MPF retrievals can be improved by up to 40%**. 
+![cv](https://mingfengwang93.github.io/assets/l8.bmp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Determination of Arctic melt pond fraction and sea ice roughness from Unmanned Aerial Vehicle (UAV) imagery 
 
 During the 7th Chinese National Arctic Research Expedition, **aerial photographs were taken from an Unmanned Aerial Vehicle** over an ice floe in the Canada Basin. Using threshold discrimination and three-dimensional modeling, we estimated a melt pond fraction of 1.63% and a regionally averaged surface roughness of 0.12 for the study area.
@@ -35,25 +61,7 @@ Analysis of the relationship between the distributions of melt ponds and sea ice
 
 
 
-### A new algorithm for melt pond fraction estimation using high resolution optical sensor
 
-Melt pond occupies a large fraction on the Arctic sea ice surface during spring and summer. The fraction and distribution of melt pond make a vital impact on the climate and ecosystem by changing the sea ice mass and energy balance, oceanic mixing layer depth, salt balance, and ocean productivity. The climate influences of melt pond reveal the urgency of obtaining a longtime series MPF (melt pond fraction) data. 
-
-MPF data acquisition mainly based on optical remote sensing. In-situ observation indicates that **the spectral properties of melt ponds are widely varied even at a local scale**. 
-
-In the previous MPF algorithm, melt ponds are treated as only one kind of surface features, and the reflectivity of melt ponds is assumed to be constants. In this paper, we perform these previous algorithms using Sentinel-2 and Landsat8 data, the determination results indicate that **the assumption of fixed melt pond reflectivity leads to a severe underestimate of MPF**. 
-
-![cv](https://mingfengwang93.github.io/assets/traning-area.bmp)
-
-To correct this problem, we treat melt pond as a reflectivity variable feature by dividing them into bright blue melt ponds and dark blue melt ponds, then **proposed a new algorithm based on LinearPolar transformation**.
-
-![cv](https://mingfengwang93.github.io/assets/two-d-histogram.bmp)
-
-The angular coordinate θ of the polar coordinate system is used to determinate MPF, as θ is only associate with MPF and do not relate to the reflectivity of different melt ponds. The MPF determination results of **LinearPolar algorithm** is compared with that of previous algorithms and exhibited to be more reasonable. 
-
-![cv](https://mingfengwang93.github.io/assets/s2.bmp)
-
-![cv](https://mingfengwang93.github.io/assets/l8.bmp)
 
 
 

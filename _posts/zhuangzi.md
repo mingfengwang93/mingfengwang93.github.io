@@ -2,7 +2,7 @@
 layout:     post
 title:      庄子
 subtitle:   
-date:       2018-12-16
+date:       2020-08-31
 author:     mf
 header-img: img/about-bg.jpg
 catalog: 	 true
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-## Academic works
+## 老庄
 
 
 ### A new algorithm for melt pond fraction estimation using high resolution optical sensor
